@@ -1,0 +1,32 @@
+.calc{
+    width: 400px;
+    height: 550px;
+    background-color: #54595f;
+    margin-left: 40px;
+    border: 1px solid;
+    border-radius: 3%;
+}
+#screen{
+    margin-left: 63px;
+    margin-top: 20px;
+    width: 65%;
+    height: 40px;
+    pointer-events: none;
+    font-size: 23px;
+    border: 1px solid #c2c2a3;
+}
+.btn{
+    height: 57px;
+    width: 61px;
+    background-color:#ffffff ;
+    font-size: 17px;
+    font-weight: bold;
+}
+.row{
+    margin-top: 30px;
+    margin-left: 62px;
+}
+.equal{
+    background-color: orange;
+    color: #fff;
+}
